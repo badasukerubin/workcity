@@ -2,7 +2,7 @@
 {{--<link rel="apple-touch-icon" sizes="76x76" href="{{ asset('images/IMG-20171213-WA0003.jpg') }}">--}}
 <link rel="icon" type="image/png" sizes="96x96" href="{{ asset('images/IMG-20171213-WA0003.jpg') }}">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="description" content="">
+<meta name="description" content="Adewale Toluwani">
 <meta name="author" content="">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 <!-- CSRF Token -->
