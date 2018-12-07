@@ -11,7 +11,8 @@ Then change into the project's directory by running the following on your termin
 ```
 cd workcity
 ```
-```Note```: You need to have composer installed on your computer in order to install the neccessary dependencies and packages required for this project
+```Note```: You need to have composer installed on your computer in order to install the neccessary dependencies and packages required for this project.
+
 If you already have composer installed, run the following on your terminal:
 ```
 composer install
